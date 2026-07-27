@@ -23,8 +23,17 @@ Here's what it has:
 - Automatic potato farm/cooker
 - Iron farms(plural)
 - Automatic bambu farm
-- Skeleton farm
+- Skeleton farm/xp farm
 - Slime farm
 - MASSIVE deepslate mine
-- 6 block tall wall
+- 6 block tall wall(no roof yet)
 - 3 floors
+
+Some of out bigger achievements(not actual Minecraft onces)
+-
+- Full netherite armour and tools(first timer ever)
+- Beat the game
+- Killed wither - beacon incoming
+- killed warden
+
+idk why I made a GitHub repo for this
