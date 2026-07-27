@@ -39,10 +39,10 @@ Some of out bigger achievements(not actual Minecraft onces)
 Back in 2022, it wasn't looking so good
 -
 
-We only had full diamond, no villagers, and little enchantments. That was basically the first time that I started playing Minecraft and both of use were terrible 
+We only had full diamond, no villagers, and little enchantments. That was basically the first time that I started playing Minecraft and both of use were terrible. 
 
 
-The speed that it took to get everything was crazy. 
+The speed that it took to get everything was crazy. We made some crazy improvements. 
 -
 In just 70 Minecraft days, (took 3 real life days) - Not full days like I started 3 days ago on jul 24. To get ALL of this. I genuinely did not know that it was possible to get this good at the game. We are so stacked with everything. We are done with farms now, it's time for just building. We are going to build MASSIVE castles, datacenters(just bambu and iron farms(for beacons), and just crazy builds that we never knew were possible. 
 
