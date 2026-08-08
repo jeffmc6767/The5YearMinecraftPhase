@@ -11,11 +11,25 @@ I don't really have a lot of documentation of the world's, only some screenshots
 
 Automatic bambu farm (freecam used for screenshot) 
 --
+This is the OG one
 <img width="2816" height="1762" alt="2026-07-26_20 12 44" src="https://github.com/user-attachments/assets/b10f5e24-791b-4396-8253-0932d787edf1" />
+New and 10x better bambu farm(work in progress)
+<img width="2816" height="1762" alt="2026-08-07_22 39 58" src="https://github.com/user-attachments/assets/e5a10cb0-72f1-480f-8054-3adfd0298d26" />
 
-Our Base(still a work in progress):
+Crazy iron farm:
+-
+
+<img width="2816" height="1762" alt="2026-08-07_22 40 05" src="https://github.com/user-attachments/assets/8b34930f-40fd-4b77-8946-c4bd52665768" />
+
+Our Base(on day 50):
 ---
 <img width="2816" height="1762" alt="2026-07-27_11 29 27" src="https://github.com/user-attachments/assets/7ea639ed-7c6e-47c9-964a-c80e95d0b238" />
+
+Here's our base on day 150:
+-
+
+<img width="2816" height="1762" alt="2026-08-07_22 39 51" src="https://github.com/user-attachments/assets/ed09ee81-1f44-494c-b78f-3c206e19a87a" />
+<img width="2816" height="1762" alt="2026-08-07_22 39 43" src="https://github.com/user-attachments/assets/31ef520f-59fd-407a-aa5c-2b17744d9451" />
 
 Here's what it has:
 - villager breeder
