@@ -32,22 +32,23 @@ Here's our base on day 150:
 <img width="2816" height="1762" alt="2026-08-07_22 39 43" src="https://github.com/user-attachments/assets/31ef520f-59fd-407a-aa5c-2b17744d9451" />
 
 Here's what it has:
-- villager breeder
+- villager breeder(x3)
 - Villager trading hall
 - Automatic potato farm/cooker
 - Iron farms(plural)
-- Automatic bambu farm
+- Automatic bambu farm(massive one)
 - Skeleton farm/xp farm
 - Slime farm
+- 2 fully mined out chunks
 - MASSIVE deepslate mine
-- 6 block tall wall(no roof yet)
-- 3 floors
+- Super smelter
+- 
 
 Some of out bigger achievements(not actual Minecraft onces)
 -
 - Full netherite armour and tools(first timer ever)
 - Beat the game
-- Killed wither - beacon incoming
+- Killed wither - beacon incoming - Beacon here
 - killed warden
 
 Back in 2022, it wasn't looking so good
@@ -62,6 +63,7 @@ In just 70 Minecraft days, (took 3 real life days) - Not full days like I starte
 
 Im so proud of how far we've gotten 
 
+It's now 150 days. Crazy improvements have happened I genuinely did not know that this was possible to do. 
 
 idk why I made a GitHub repo for this
 -
